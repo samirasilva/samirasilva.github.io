@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Academic</title>
+    <title>1 | Samira Silva</title>
     <link>https://samirasilva.github.io/publication-type/1/</link>
       <atom:link href="https://samirasilva.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samirasilva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,21 +13,17 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://samirasilva.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://samirasilva.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Self-adaptive Testing in the Field: Are We There Yet?</title>
+      <link>https://samirasilva.github.io/publication/seams_2022/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://samirasilva.github.io/publication/seams_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supplementary Material&lt;/strong&gt; (Replication package):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/1_Initial_list_of_papers.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial List of Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/2_Evaluation_Relevance.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evaluation of Relevance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/3_Final_List.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Final List of Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/4_Research_Questions.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Answers to Research Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

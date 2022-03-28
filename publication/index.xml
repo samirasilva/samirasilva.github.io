@@ -5,12 +5,27 @@
     <link>https://samirasilva.github.io/publication/</link>
       <atom:link href="https://samirasilva.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://samirasilva.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://samirasilva.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Self-adaptive Testing in the Field: Are We There Yet?</title>
+      <link>https://samirasilva.github.io/publication/seams_2022/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://samirasilva.github.io/publication/seams_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Supplementary Material&lt;/strong&gt; (Replication package):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/1_Initial_list_of_papers.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Initial List of Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/2_Evaluation_Relevance.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evaluation of Relevance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/3_Final_List.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Final List of Papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/samirasilva/samira_phd_gssi/blob/main/seams_2022_supp/4_Research_Questions.ods&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Answers to Research Questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
